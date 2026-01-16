@@ -1,0 +1,38 @@
+export const products = [
+  {
+    id: 1,
+    name: "Potato - New Crop",
+    weight: "1 kg",
+    price: 18,
+    oldPrice: 21,
+    img: "/images/potato.png",
+    discount: "14% OFF",
+  },
+  {
+    id: 2,
+    name: "Hybrid Tomato",
+    weight: "500 g",
+    price: 29,
+    oldPrice: 35,
+    img: "/images/tomato.png",
+    discount: "17% OFF",
+  },
+  {
+    id: 3,
+    name: "Coriander Bunch",
+    weight: "100 g",
+    price: 9,
+    oldPrice: 13,
+    img: "/images/coriander.png",
+    discount: "30% OFF",
+  },
+  {
+    id: 4,
+    name: "Green Chilli",
+    weight: "100 g",
+    price: 9,
+    oldPrice: 13,
+    img: "/images/chilli.png",
+    discount: "30% OFF",
+  },
+];
